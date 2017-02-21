@@ -1,0 +1,26 @@
+{
+  "name": "space-shooter-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReiiYuki/SpaceShooterBackend.git"
+  },
+  "keywords": [
+    "spaceshooter"
+  ],
+  "author": "Voraton Lertrattanapaisal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReiiYuki/SpaceShooterBackend/issues"
+  },
+  "homepage": "https://github.com/ReiiYuki/SpaceShooterBackend#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "firebase-admin": "^4.1.1"
+  }
+}
